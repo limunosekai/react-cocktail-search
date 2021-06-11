@@ -147,6 +147,12 @@ Navbar
   margin: 0 auto;
   max-width: var(--fullWidth);
 }
+.nav-center h2 {
+  margin-bottom: 0;
+}
+.nav-center span {
+  color: var(--primaryDarkColor);
+}
 .nav-links {
   display: flex;
   align-items: center;
