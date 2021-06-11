@@ -296,8 +296,7 @@ Form
 }
 .form-control input {
   width: 100%;
-  border: none;
-  border-color: transparent;
+  border: 1px solid var(--mainOverlay);
   background: var(--mainBackground);
   border-radius: var(--mainBorderRadius);
   padding: 0.5rem;
